@@ -3,7 +3,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>FrameWork2018</groupId>
     <artifactId>WebAutomationNov2018</artifactId>
     <packaging>pom</packaging>
@@ -11,6 +10,7 @@
     <modules>
         <module>Generic</module>
         <module>Amazon</module>
+        <module>RestAPI</module>
     </modules>
     <dependencyManagement>
         <dependencies>
@@ -32,7 +32,7 @@
             <dependency>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.20.1</version>
+                <version>3.0.0-M1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.poi</groupId>
@@ -79,11 +79,11 @@
                 <artifactId>mongo-java-driver</artifactId>
                 <version>3.6.0-beta1</version>
             </dependency>
-            <dependency>
-                <groupId>mysql</groupId>
-                <artifactId>mysql-connector-java</artifactId>
-                <version>8.0.12</version>
-            </dependency>
+            <!--<dependency>-->
+            <!--<groupId>mysql</groupId>-->
+            <!--<artifactId>mysql-connector-java</artifactId>-->
+            <!--<version>8.0.13</version>-->
+            <!--</dependency>-->
             <dependency>
                 <groupId>io.rest-assured</groupId>
                 <artifactId>rest-assured</artifactId>
@@ -92,17 +92,12 @@
             <dependency>
                 <groupId>org.apache.poi</groupId>
                 <artifactId>poi-scratchpad</artifactId>
-                <version>3.17</version>
+                <version>3.9</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.poi</groupId>
                 <artifactId>ooxml-schemas</artifactId>
-                <version>1.1</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.poi</groupId>
-                <artifactId>poi-ooxml-schemas</artifactId>
-                <version>3.9</version>
+                <version>1.4</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.poi</groupId>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon Automation Test" parallel="true">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="cloudEnvName" value="saucelabe"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="os_version" value="10"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="62.0"/>
+    <parameter name="url" value="https://www.amazon.com/"/>
+
+    <test name="Amazon test cases" enabled="true">
+        <classes>
+            <class name="base.testSearchPage"/>
+            <class name="base.TestExcelReaderPage"/>
+            <class name="base.testTodaysDeal"/>
+            <class name="base.TestCart"/>
+            <class name="base.TestPicturePage"/>
+            <class name="base.TestHoverOver"/>
+            <class name="base.TestAddress"/>
+            <class name="base.TestAccessories"/>
+            <class name="base.TestLinKPage"/>
+            <class name="base.TestSingIn"/>
+        </classes>
+    </test>
+</suite>

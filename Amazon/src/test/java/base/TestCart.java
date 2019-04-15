@@ -6,18 +6,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class TestCart extends Cart {
-    Cart cart;
-    @BeforeMethod
-    public void initialization(){
-        cart= PageFactory.initElements(driver,Cart.class);
-        setUrl("https://www.amazon.com/");
-    }
-
-    @Override
-    public void setUrl(String URL) {
-        super.setUrl("");
-    }
-
+    Cart cart= PageFactory.initElements(driver,Cart.class);
     @Test
     public void searchItem(){
         cart.ClickOnSearch();}

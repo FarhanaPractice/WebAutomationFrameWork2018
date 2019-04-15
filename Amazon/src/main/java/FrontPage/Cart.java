@@ -1,5 +1,4 @@
 package FrontPage;
-
 import Base.CommonAPI;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -18,6 +17,10 @@ public class Cart extends CommonAPI {
     public static WebElement clickOnSizeNumber;
     @FindBy(id = "add-to-cart-button")
     public static WebElement addToCart;
+    @FindBy(xpath = "//li[@id='result_0']//img[@class='s-access-image cfMarker']")
+    public static WebElement LongTunic;
+    @FindBy(xpath = "//img[@data-search-image-source='https://images-na.ssl-images-amazon.com/images/I/51Nzt2bZYML._AC_UL260_SR200,260_.jpg']")
+    public static WebElement Skirt;
     public void ClickOnSearch(){
         searchItem.sendKeys("WomensDress", Keys.ENTER);
         clickOnSearch.click();
@@ -25,12 +28,8 @@ public class Cart extends CommonAPI {
         clickOnSize.click();
         clickOnSizeNumber.click();
         addToCart.click();}
-    @FindBy(xpath = "//li[@id='result_0']//img[@class='s-access-image cfMarker']")
-    public static WebElement LongTunic;
     public void clickOnLongTunic(){
         LongTunic.click();}
-    @FindBy(xpath = "//img[@data-search-image-source='https://images-na.ssl-images-amazon.com/images/I/51Nzt2bZYML._AC_UL260_SR200,260_.jpg']")
-    public static WebElement Skirt;
     public void clickOnSkirt(){
         Skirt.click();}
 }

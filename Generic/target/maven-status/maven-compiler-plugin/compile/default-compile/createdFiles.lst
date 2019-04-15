@@ -1,0 +1,6 @@
+reporting\TestLogger.class
+Base\CommonAPI.class
+reporting\ExtentManager.class
+reporting\ExtentTestManager.class
+Base\CommonAPI$1.class
+reporting\ApplicationLog.class

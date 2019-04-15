@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24072421-b9ce-4071-ae70-d9c4bebb8341" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/secret/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/secret/target/secret-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/excelReader/excelReaderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/excelReader/excelReaderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/database/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/database/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/TodaysDeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/TodaysDeal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/database/SingUpUsingDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/database/SingUpUsingDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/META-INF/Amazon.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/TestCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/TestCart.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/testSearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/testSearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/testTodaysDeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/testTodaysDeal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,6 +33,7 @@
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/Amazon/target/" />
     <ignored path="$PROJECT_DIR$/Amazon/secret/target/" />
+    <ignored path="$PROJECT_DIR$/RestAPI/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,63 +43,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="40" selection-start-line="38" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1263#1264#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="526">
+              <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/secret.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-column="1" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/dbsecret.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/client_secret.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="427" selection-start-column="427" selection-end-column="427" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="204">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,38 +68,87 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/excelReaderClass.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SingIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+            <state relative-caret-position="194">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#10196#10197#0" expanded="true" />
+                <element signature="e#10226#10227#0" expanded="true" />
+                <element signature="e#14519#14520#0" expanded="true" />
+                <element signature="e#14580#14581#0" expanded="true" />
+                <element signature="e#14639#14640#0" expanded="true" />
+                <element signature="e#14714#14715#0" expanded="true" />
+                <element signature="e#14926#14927#0" expanded="true" />
+                <element signature="e#14995#14996#0" expanded="true" />
+                <element signature="e#15044#15045#0" expanded="true" />
+                <element signature="e#15124#15125#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/UnitTestConnectDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="221">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,42 +165,68 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testng</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testClass1.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/Student.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/User.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToMongoDB.java" />
-        <option value="$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/database/ConnectToSqlDB.java" />
-        <option value="$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/excelReader/excelReaderClass.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/resource/client_secret.json" />
-        <option value="$PROJECT_DIR$/Amazon/secret/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/googlesheetapi/GoogleSheetReader.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resource/secret.properties" />
         <option value="$PROJECT_DIR$/Amazon/dbsecret.properties" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/database/UnitTestConnectDB.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/excelReaderClass.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/googlesheetapi/SearchOption.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReaderClass.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/SearchTestWithGoogleSheetApi.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/GoogleSheet/SingInWithGoogleSheet.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/testSingInWithGoogleSheet/TestSingInPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SingIn.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/PicturePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Address.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/resources/ResrAPIRunner.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/rest/AllEmployeeRestServices.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/rest/SingleEmployeeResource.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/LinkPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Accessories.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/googleSheet/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/googleSheetTest/GoogleSheetReaderTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestPicturePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestLinKPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestHoverOver.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestElectricalStuffs.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestAccessories.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestAddress.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resource/AmazonTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ElectricalStuffs.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" />
       </list>
     </option>
   </component>
@@ -200,31 +251,24 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="RestAPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebAutomationNov2018" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="RestAPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="42" />
-    <option name="width" value="820" />
-    <option name="height" value="693" />
+    <option name="x" value="17" />
+    <option name="width" value="763" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -234,8 +278,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,6 +296,18 @@
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,24 +324,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excelReader" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
@@ -319,6 +357,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="googleSheetTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
@@ -371,16 +418,49 @@
             <path>
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+              <item name="NBC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
-              <item name="NBC" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,17 +469,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548143258481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554697944526" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\RestAPI\src\test" />
+      <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\Amazon\src\main\java\excelReader" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\RestAPI\src\test\resources" />
+      <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\Amazon\screenshots" />
+      <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\Amazon\src\main\java\ExcelFile" />
       <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\Amazon\src\main\java\excelReader" />
       <recent name="C:\Users\farha\Desktop\WebAutomationFrameWork2018\Driver" />
-      <recent name="C:\Users\sadia\IdeaProjects\WebAutomationFrameWork2018\Driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,78 +501,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnitTestConnectDB">
-    <configuration name="UnitTestConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="database.UnitTestConnectDB" />
-      <module name="Amazon" />
+  <component name="RunManager" selected="TestNG.SingleEmployeeResource.callSingleEmployeeResources">
+    <configuration name="SingleEmployeeResource.callSingleEmployeeResources" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="database.*" />
+          <option name="PATTERN" value="rest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.SingleEmployeeResource" />
+      <option name="METHOD_NAME" value="callSingleEmployeeResources" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Generic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Generic" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testSearchPage.clickOnLink" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration name="SingleEmployeeResource.postInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="rest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="base" />
-      <option name="MAIN_CLASS_NAME" value="base.testSearchPage" />
-      <option name="METHOD_NAME" value="clickOnLink" />
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.SingleEmployeeResource" />
+      <option name="METHOD_NAME" value="postInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleEmployeeResource.updateInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.SingleEmployeeResource" />
+      <option name="METHOD_NAME" value="updateInfo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -529,38 +592,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testTodaysDeal.todaysDeal" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="base" />
-      <option name="MAIN_CLASS_NAME" value="base.testTodaysDeal" />
-      <option name="METHOD_NAME" value="todaysDeal" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.UnitTestConnectDB" />
-      <item itemvalue="TestNG.testTodaysDeal.todaysDeal" />
-      <item itemvalue="TestNG.testSearchPage.clickOnSearch" />
+      <item itemvalue="TestNG.SingleEmployeeResource.callSingleEmployeeResources" />
+      <item itemvalue="TestNG.SingleEmployeeResource.postInfo" />
+      <item itemvalue="TestNG.SingleEmployeeResource.updateInfo" />
       <item itemvalue="TestNG.testSearchPage.clickOnLogo" />
-      <item itemvalue="TestNG.testSearchPage.clickOnLink" />
+      <item itemvalue="TestNG.testSearchPage.clickOnSearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnitTestConnectDB" />
-        <item itemvalue="TestNG.testSearchPage.clickOnLink" />
+        <item itemvalue="TestNG.SingleEmployeeResource.callSingleEmployeeResources" />
         <item itemvalue="TestNG.testSearchPage.clickOnSearch" />
         <item itemvalue="TestNG.testSearchPage.clickOnLogo" />
-        <item itemvalue="TestNG.testTodaysDeal.todaysDeal" />
+        <item itemvalue="TestNG.SingleEmployeeResource.updateInfo" />
+        <item itemvalue="TestNG.SingleEmployeeResource.postInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -578,42 +623,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testSearchPage_clickOnSearch - 2019.01.21 at 10h 32m 59s.xml">
+    <history-entry file="testTodaysDeal_todaysDeal - 2019.01.26 at 17h 48m 19s.xml">
+      <configuration name="testTodaysDeal.todaysDeal" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testTodaysDeal_checkTheName - 2019.01.26 at 17h 56m 26s.xml">
+      <configuration name="testTodaysDeal.checkTheName" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSingIn_clickOnLink - 2019.01.26 at 19h 04m 05s.xml">
+      <configuration name="TestSingIn.clickOnLink" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testSearchPage_clickOnSearch - 2019.01.26 at 19h 10m 58s.xml">
       <configuration name="testSearchPage.clickOnSearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 10h 33m 56s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="C__Users_farha_Desktop_WebAutomationFrameWork2018_Amazon_src_test_resource_AmazonTestRunner_xml - 2019.01.27 at 11h 15m 11s.xml">
+      <configuration name="C:/Users/farha/Desktop/WebAutomationFrameWork2018/Amazon/src/test/resource/AmazonTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 11h 14m 47s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="SingleEmployeeResource_postInfo - 2019.01.27 at 22h 02m 59s.xml">
+      <configuration name="SingleEmployeeResource.postInfo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 11h 22m 33s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="SingleEmployeeResource_updateInfo - 2019.01.27 at 22h 05m 02s.xml">
+      <configuration name="SingleEmployeeResource.updateInfo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 11h 26m 28s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="testSearchPage_clickOnLogo - 2019.02.06 at 18h 07m 23s.xml">
+      <configuration name="testSearchPage.clickOnLogo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 12h 05m 08s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="testSearchPage_clickOnSearch - 2019.02.06 at 18h 10m 11s.xml">
+      <configuration name="testSearchPage.clickOnSearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 23h 48m 52s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 23h 49m 46s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.21 at 23h 53m 06s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="testSearchPage_clickOnLink - 2019.01.22 at 00h 06m 13s.xml">
-      <configuration name="testSearchPage.clickOnLink" configurationId="TestNG" />
+    <history-entry file="SingleEmployeeResource_callSingleEmployeeResources - 2019.02.15 at 23h 40m 11s.xml">
+      <configuration name="SingleEmployeeResource.callSingleEmployeeResources" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="42" width="820" height="693" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38026315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -622,7 +667,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30114567" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39116204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48608837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -632,18 +677,18 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.013615734" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.30635402" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -652,7 +697,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30114567" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39116204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48608837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -660,17 +705,17 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32242227" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.013615734" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.30635402" />
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
@@ -678,111 +723,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java</url>
-          <line>10</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Driver/chromedriver.exe">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/FrontPage/Cart.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../OldAutomation-Frame-Work/src/main/java/frameWork/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/Student.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/User.java" />
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="99" column="1" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/excelReader/ExcelMainPage.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/excelReader/excelReaderClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/database/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/testrunner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/secret/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -793,35 +759,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/UnitTestConnectDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/googlesheetapi/GoogleSheetReader.java" />
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/screenshots/MobileConnection" />
+    <entry file="file://$PROJECT_DIR$/Amazon/screenshots/ScreenshotForMobileAutomation.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomationFrameWork2018copy/Amazon/src/main/java/excelReader/ExcelMainPage.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/secret.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/googleSheet.java" />
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/resources/ResrAPIRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/screenshots/clickOnGiftCards (01.23.2019-00">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Accessories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/LinkPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/googleSheetTest/GoogleSheetReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -830,95 +854,310 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="42" selection-start-line="8" selection-start-column="3" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="136">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestElectricalStuffs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestPicturePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestLinKPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/PicturePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/DailyStuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestAccessories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/SingleEmployeeResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAutomationFrameWork2018.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ElectricalStuffs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestHoverOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/AmazonTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" selection-start-line="38" selection-end-line="40" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/secret.properties">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-column="1" selection-end-line="4" selection-end-column="34" />
+        <state relative-caret-position="1309">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/dbsecret.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/client_secret.json">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/googleSheet/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="427" selection-start-column="427" selection-end-column="427" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/AllEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/UnitTestConnectDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+        <state relative-caret-position="526">
+          <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/excelReaderClass.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="194">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10196#10197#0" expanded="true" />
+            <element signature="e#10226#10227#0" expanded="true" />
+            <element signature="e#14519#14520#0" expanded="true" />
+            <element signature="e#14580#14581#0" expanded="true" />
+            <element signature="e#14639#14640#0" expanded="true" />
+            <element signature="e#14714#14715#0" expanded="true" />
+            <element signature="e#14926#14927#0" expanded="true" />
+            <element signature="e#14995#14996#0" expanded="true" />
+            <element signature="e#15044#15045#0" expanded="true" />
+            <element signature="e#15124#15125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SingIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -974,11 +1213,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>RestAPI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -998,7 +1238,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
