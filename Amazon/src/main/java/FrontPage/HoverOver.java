@@ -17,7 +17,7 @@ public class HoverOver extends CommonAPI {
         System.out.println(accountList.getText());
     }
     public void checkTryPrime() throws InterruptedException {
-        //Actions builder = new Actions(driver);
+        Actions builder = new Actions(driver);
         builder.moveToElement(tryPrime).perform();
         sleepFor(5);
         System.out.println(tryPrime.getText());

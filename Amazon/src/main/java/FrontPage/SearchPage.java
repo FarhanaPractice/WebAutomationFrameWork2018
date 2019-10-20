@@ -22,6 +22,7 @@ public class SearchPage extends CommonAPI {
     public static WebElement EchoDotPic;
     @FindBy(how = How.XPATH, using = "//span[contains(text(),\"Today's deals under $25\")]")
     public static WebElement todaysDeal;
+
     public void clickOnSearch() {
         search.click();
         search.sendKeys("book", Keys.ENTER); }

@@ -2,31 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24072421-b9ce-4071-ae70-d9c4bebb8341" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/secret/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/secret/target/secret-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/TestCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/base/testTodaysDeal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/HoverOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/HoverOver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/TodaysDeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/FrontPage/TodaysDeal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/database/SingUpUsingDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/database/SingUpUsingDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/META-INF/Amazon.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/TestCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/TestCart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/testSearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/testSearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/base/testTodaysDeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/base/testTodaysDeal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/database/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/database/ConnectToSqlDB.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,24 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/database/SingUpUsingDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="305">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +37,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="549">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,31 +58,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/PicturePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -113,8 +72,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SingIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            <state relative-caret-position="424">
+              <caret line="192" column="50" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#10196#10197#0" expanded="true" />
@@ -145,10 +116,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,7 +183,6 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelMainPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/googlesheetapi/SearchOption.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReaderClass.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/base/SearchTestWithGoogleSheetApi.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/GoogleSheet/SingInWithGoogleSheet.java" />
@@ -206,14 +200,11 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/LinkPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Accessories.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/TodaysDeal.java" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/googleSheet/GoogleSheetReader.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/googleSheetTest/GoogleSheetReaderTest.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestPicturePage.java" />
@@ -227,6 +218,10 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/resource/AmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ElectricalStuffs.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/database/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java" />
       </list>
     </option>
   </component>
@@ -265,7 +260,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="17" />
     <option name="width" value="763" />
     <option name="height" value="740" />
@@ -278,8 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,6 +319,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFrameWork2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="excelReader" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFrameWork2018" type="b2602c69:ProjectViewProjectNode" />
@@ -469,7 +473,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554697944526" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571554718297" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -501,7 +505,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SingleEmployeeResource.callSingleEmployeeResources">
+  <component name="RunManager" selected="TestNG.TestExcelReaderPage.itemsSearchFromExcelData">
     <configuration name="SingleEmployeeResource.callSingleEmployeeResources" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAPI" />
       <extension name="coverage">
@@ -520,24 +524,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleEmployeeResource.postInfo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rest" />
-      <option name="MAIN_CLASS_NAME" value="rest.SingleEmployeeResource" />
-      <option name="METHOD_NAME" value="postInfo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SingleEmployeeResource.updateInfo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAPI" />
       <extension name="coverage">
@@ -549,6 +535,24 @@
       <option name="PACKAGE_NAME" value="rest" />
       <option name="MAIN_CLASS_NAME" value="rest.SingleEmployeeResource" />
       <option name="METHOD_NAME" value="updateInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExcelReaderPage.itemsSearchFromExcelData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="base" />
+      <option name="MAIN_CLASS_NAME" value="base.TestExcelReaderPage" />
+      <option name="METHOD_NAME" value="itemsSearchFromExcelData" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -594,18 +598,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.SingleEmployeeResource.callSingleEmployeeResources" />
-      <item itemvalue="TestNG.SingleEmployeeResource.postInfo" />
       <item itemvalue="TestNG.SingleEmployeeResource.updateInfo" />
+      <item itemvalue="TestNG.TestExcelReaderPage.itemsSearchFromExcelData" />
       <item itemvalue="TestNG.testSearchPage.clickOnLogo" />
       <item itemvalue="TestNG.testSearchPage.clickOnSearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestExcelReaderPage.itemsSearchFromExcelData" />
         <item itemvalue="TestNG.SingleEmployeeResource.callSingleEmployeeResources" />
         <item itemvalue="TestNG.testSearchPage.clickOnSearch" />
         <item itemvalue="TestNG.testSearchPage.clickOnLogo" />
         <item itemvalue="TestNG.SingleEmployeeResource.updateInfo" />
-        <item itemvalue="TestNG.SingleEmployeeResource.postInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -623,12 +627,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testTodaysDeal_todaysDeal - 2019.01.26 at 17h 48m 19s.xml">
-      <configuration name="testTodaysDeal.todaysDeal" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="testTodaysDeal_checkTheName - 2019.01.26 at 17h 56m 26s.xml">
-      <configuration name="testTodaysDeal.checkTheName" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestSingIn_clickOnLink - 2019.01.26 at 19h 04m 05s.xml">
       <configuration name="TestSingIn.clickOnLink" configurationId="TestNG" />
     </history-entry>
@@ -653,12 +651,18 @@
     <history-entry file="SingleEmployeeResource_callSingleEmployeeResources - 2019.02.15 at 23h 40m 11s.xml">
       <configuration name="SingleEmployeeResource.callSingleEmployeeResources" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestExcelReaderPage_itemsSearchFromExcelData - 2019.10.20 at 01h 26m 58s.xml">
+      <configuration name="TestExcelReaderPage.itemsSearchFromExcelData" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExcelReaderPage_itemsSearchFromExcelData - 2019.10.20 at 02h 44m 06s.xml">
+      <configuration name="TestExcelReaderPage.itemsSearchFromExcelData" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -688,7 +692,7 @@
       <window_info anchor="right" id="Maven" order="9" weight="0.30635402" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -705,7 +709,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32242227" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -791,16 +795,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/screenshots/clickOnGiftCards (01.23.2019-00">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Accessories.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -902,23 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/PicturePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/DailyStuff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -935,16 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/SingleEmployeeResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebAutomationFrameWork2018.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -952,16 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestHoverOver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -995,16 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1015,52 +962,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/AmazonTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/googleSheet/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/AllEmployeeRestServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1080,10 +984,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/AllEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1104,37 +1018,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resource/AmazonTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/rest/SingleEmployeeResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
-          <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/HoverOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestHoverOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/PicturePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/testSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        <state relative-caret-position="424">
+          <caret line="192" column="50" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#10196#10197#0" expanded="true" />
@@ -1151,10 +1095,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/excelReader/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestExcelReaderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/ExcelReaderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SearchOption">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/base/TestSingIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/FrontPage/SingIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
